@@ -1,0 +1,13 @@
+{
+    "name": "Encurtador de URL",
+    "description": "⚡ Encurtador de URL [rebrand.ly] | Feito por: @krostport",
+    "version": "2.0",
+    "manifest_version": 3,
+    "permissions": ["activeTab", "scripting"],
+    "icons": {
+        "128": "src/assets/icon.png"
+     },
+    "action": {
+        "default_popup": "src/index.html"
+    }
+}
